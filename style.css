@@ -3,7 +3,6 @@
   padding: 0;
   box-sizing: border-box;
 }
-
 body {
   font-family: 'Inter', sans-serif;
   background-color: #ffffff;
@@ -71,6 +70,7 @@ body {
   flex-direction: column;
   gap: 
     }
+
 
   .btn-primary {
   background-color: #0062FF; /* насыщенный синий */
