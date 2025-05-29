@@ -69,11 +69,11 @@ body {
   padding-bottom: 20px;
   display: flex;
   flex-direction: column;
-  gap: 10px;
-}
+  gap: 
+    }
 
-.btn-primary {
-  background-color: #e60000;
+  .btn-primary {
+  background-color: #0062FF; /* насыщенный синий */
   color: white;
   border: none;
   border-radius: 8px;
@@ -88,11 +88,12 @@ body {
 
 .btn-secondary {
   background-color: transparent;
-  color: #000;
-  border: 1px solid #ccc;
+  color: #0062FF;
+  border: 1px solid #0062FF;
   border-radius: 8px;
   padding: 14px;
   font-size: 16px;
+  font-weight: 500;
   display: flex;
   justify-content: center;
   align-items: center;
